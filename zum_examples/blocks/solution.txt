@@ -1,0 +1,6 @@
+(define (plan ai.planning.strips.SequentialPlan@ed5e0a6c)
+  (:domain domain)
+  (:actions 
+    (:action @869ef084 :type from-ground :parameters ( green red ))
+    (:action @a01ee6af :type from-ground :parameters ( blue green )))
+  (:order :sequence))

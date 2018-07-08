@@ -1,0 +1,6 @@
+time step    0: PICK-FROM-GROUND GREEN
+time step    1: PLACE GREEN RED
+time step    2: PICK-FROM-GROUND BLUE
+time step    3: PLACE BLUE GREEN
+time step    4: PICK-FROM-GROUND BROWN
+time step    5: PLACE BROWN BLUE
