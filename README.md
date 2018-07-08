@@ -13,4 +13,5 @@ java -jar planners/JGraphplan.jar <domain> <problem>
 
 Example:
 ```
-java -jar planners/JGraphplan.jar zum_examples/blocks/blocks.pddl zum_examples/blocks/blocks-3.pddl```
+java -jar planners/JGraphplan.jar zum_examples/blocks/blocks.pddl zum_examples/blocks/blocks-3.pddl
+```
