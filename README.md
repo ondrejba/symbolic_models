@@ -1,6 +1,6 @@
 # Symbolic Models #
 
-This repository contains a couple of examples of symbolic models. The 
+This repository contains a few examples of symbolic models. The 
 solvers and the zum_examples are from a course BI-ZUM taught at the Czech Technical
 University.
 
