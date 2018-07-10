@@ -45,7 +45,7 @@ java -jar planners/JGraphplan.jar stack_blocks/goal_level/domain.pddl stack_bloc
 
 ## Usage ##
 
-Solve a problem:
+Solve a STRIPS problem:
 ```
 java -jar planners/JGraphplan.jar <domain> <problem>
 ```
@@ -53,4 +53,9 @@ java -jar planners/JGraphplan.jar <domain> <problem>
 Example:
 ```
 java -jar planners/JGraphplan.jar zum_examples/blocks/blocks.pddl zum_examples/blocks/blocks-3.pddl
+```
+
+Solve an ADL problem ([solver link](https://github.com/pellierd/pddl4j)):
+```
+java -jar planners/pddl4j-3.7.1.jar -o <domain> -f <problem>
 ```

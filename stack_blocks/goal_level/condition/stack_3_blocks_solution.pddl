@@ -1,4 +1,4 @@
-time step    0: PICK
-time step    1: PLACE STACK1 STACK2
-time step    2: PICK
-time step    3: PLACE STACK2 STACK3
+0: ( pick) [1]
+1: (place) [1]
+2: ( pick) [1]
+3: (place) [1]
