@@ -1,0 +1,15 @@
+(define (problem stack_3_blocks)
+    (:domain blocks)
+    (:requirements :strips)
+  	(:objects stack1 stack2 stack3 stack4)
+    (:init
+        (in-state stack1)
+        (next stack1 stack2)
+        (next stack2 stack3)
+        (next stack3 stack4)
+    )
+    (:goal (and
+        (in-state stack4)
+      )
+    )
+)
